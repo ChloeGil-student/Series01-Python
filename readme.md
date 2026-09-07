@@ -1,0 +1,1 @@
+In this project we will analyze physiological data (here an ECG signal) using python and Git. It is part of the Series01 of the Python-R-Git course of the Master's program on Engineering and Ergonomics of Physical Activity at the University of Montpellier. 
